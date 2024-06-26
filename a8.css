@@ -1,0 +1,98 @@
+h1{
+  padding-left:25vh ;   
+  padding-top: 17vh;
+  font-size: 30px;
+  
+}
+h4{
+  padding-left: 25vh;
+  font-size: 15px;
+}
+.b1{
+  text-align: left;
+  padding-top: 5vh;
+  padding-left: 25vh;
+}
+.b1 label{
+ display: block;
+ padding-right: 5px;
+
+}
+.b1 input{
+  border: 1px solid grey;
+  border-radius: 12px;
+  width: 44vh;
+  padding: 5px;
+}
+.b2{
+  text-align: left;
+  padding-top: 5vh;
+  padding-left: 25vh;
+}
+.b2 label{
+  display: block;
+  padding-right: 5px;
+}
+.b2 input{
+  border: 1px solid grey;
+  border-radius: 12px;
+  width: 44vh;
+  padding: 5px;
+}
+.b3{
+  font-size:12px ;
+  padding-top: 3vh;
+  padding-left: 25vh;
+}
+.b3 a{
+  padding-left: 14vh;
+  font-size: 12px;
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color :blue;
+  
+}
+.b5 a{
+  padding-right: 10vh;
+  
+}
+.btn1 button{
+  width:42%;
+  border: none;
+  background-color: rgb(233, 20, 20);
+  padding: 5px;  
+  color: white;
+  margin-left: 25vh;
+  margin-top:2vh;
+  border-radius: 10px;
+}
+.btn2 button{
+  width:42%;
+  border-collapse: collapse;
+ 
+
+  border-color: gainsboro;
+  border-radius: 10px;
+  margin-left:25vh ;
+  margin-top: 2vh;
+  font-size: small;
+  font-weight: 500;
+  padding-left: 5vh;
+
+ 
+  text-align: left;
+ 
+  
+}
+p{
+  text-align: center;
+  padding-top: 3vh;
+  font-size: x-small;
+
+
+}
+p a{
+  text-decoration: none;
+}

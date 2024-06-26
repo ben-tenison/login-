@@ -1,0 +1,15 @@
+table{
+    height: 20vh;
+    width:40vh;
+
+}
+table,th,td{
+    border: 2px solid black;
+   border-collapse: collapse;
+}
+th{
+    background-color: chartreuse;
+}
+td{
+    background-color: rgb(243, 239, 24);
+}

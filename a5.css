@@ -1,0 +1,20 @@
+.b1{
+   background-color: red;
+   height: 20vh;
+   width: 20vh;
+   border: 3px solid black;
+}
+.b2{
+    background-color: gold;
+    height: 20vh;
+    width: 20vh;
+    border: 3px solid black;
+    margin-left: 50vh;
+}
+.b3{
+    background-color: dodgerblue;
+    height: 20vh;
+    width: 20vh;
+    border: 3px solid black;
+    margin-left: 100vh;
+}

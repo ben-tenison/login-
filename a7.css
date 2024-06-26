@@ -1,0 +1,30 @@
+.form{
+    background-color:yellow ;
+    border: 3px solid black;
+    height: 50vh;
+    width: 50vh;
+    margin-left: 70vh;
+    margin-top: 30vh;
+    text-align: center;
+}
+.a1 label{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: block;
+    padding: 10px;
+
+    
+}
+.a1{
+    padding: 10px;
+}
+.a1 input{
+    padding: 5px;
+}
+.btn button{
+    width: 50%;
+    border: none;
+    background-color: cadetblue;
+    border-radius: 10px;
+    padding: 5px;
+}
